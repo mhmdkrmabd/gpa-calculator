@@ -1,5 +1,6 @@
 # GPA Calculator
-احسب معدلك التراكمي في الجامعة.
+<div style="direction:rtl; text-align:right;">
+ احسب معدلك التراكمي في الجامعة.
 <br><br>
 <img src="images/1.png" width="30%"/>
 <img src="images/2.png" width="30%"/>
@@ -13,3 +14,6 @@
 4- قم بإضافة القدر الذي تشاؤه من المواد، وسيقوم البرنامج باحتساب المعدل الخاص بهذه المواد، ثم المعدل التراكمي الجديد الخاص بك بعد تلك الإضافة.<br>
 5- يتم احتساب أقصى معدل تراكمي يمكن الحصول عليه فقط في حال تم تنفيذ الخطوة الثالثة.
 </p>
+<br>
+<b>ملحوظة:</b> تم تضمين سمة Windows XP بالاستعانة بمشروع باسم <a href="https://botoxparty.github.io/XP.css" target="_blank">XP.css</a> تحت رخصة <a href="https://botoxparty.github.io/XP.css/#issues-contributing-etc" target="_blank">MIT</a>، هذه السمة فقط لتمييز البرنامج ولا تعني قدم البرنامج أو إمكانية تشغيله على ويندوز إصدار XP.
+</div>
