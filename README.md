@@ -1,6 +1,6 @@
 # GPA Calculator
-<div style="direction:rtl; text-align:right;">
- احسب معدلك التراكمي في الجامعة.
+<p dir='rtl' align='right'>
+احسب معدلك التراكمي في الجامعة.
 <br><br>
 <img src="images/1.png" width="30%"/>
 <img src="images/2.png" width="30%"/>
@@ -16,4 +16,4 @@
 </p>
 <br>
 <b>ملحوظة:</b> تم تضمين سمة Windows XP بالاستعانة بمشروع باسم <a href="https://botoxparty.github.io/XP.css" target="_blank">XP.css</a> تحت رخصة <a href="https://botoxparty.github.io/XP.css/#issues-contributing-etc" target="_blank">MIT</a>، هذه السمة فقط لتمييز البرنامج ولا تعني قدم البرنامج أو إمكانية تشغيله على ويندوز إصدار XP.
-</div>
+</p>
