@@ -1,9 +1,9 @@
 # GPA Calculator
 احسب معدلك التراكمي في الجامعة.
 <br><br>
-<img src="images/1.png" width="33%"/>
-<img src="images/2.png" width="33%"/>
-<img src="images/3.png" width="33%"/>
+<img src="images/1.png" width="30%"/>
+<img src="images/2.png" width="30%"/>
+<img src="images/3.png" width="30%"/>
 </br><br>
  يساعدك هذا البرنامج المجاني في حساب معدلك الجامعي التراكمي GPA بالنسبة المئوية، مع معلومات إضافية؛ كعدد الساعات المتبقية للتخرج، أقصى معدل يمكنك الحصول عليه، والفرق بين المعدل التراكمي قبل إضافة المواد وبعدها.<br><br>
 <b>خطوات الاستخدام:</b><br>
