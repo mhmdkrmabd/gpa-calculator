@@ -15,5 +15,6 @@
 5- يتم احتساب أقصى معدل تراكمي يمكن الحصول عليه فقط في حال تم تنفيذ الخطوة الثالثة.
 </p>
 <br>
-<b>ملحوظة:</b> تم تضمين سمة Windows XP بالاستعانة بمشروع باسم <a href="https://botoxparty.github.io/XP.css" target="_blank">XP.css</a> تحت رخصة <a href="https://botoxparty.github.io/XP.css/#issues-contributing-etc" target="_blank">MIT</a>، هذه السمة فقط لتمييز البرنامج ولا تعني قدم البرنامج أو إمكانية تشغيله على ويندوز إصدار XP.
+<p dir='rtl' align='right'>
+<b>ملحوظة:</b> تم تضمين سمة Windows XP بالاستعانة بمشروع باسم <a href="https://botoxparty.github.io/XP.css" target="_blank">XP.css</a> تحت رخصة <a href="https://botoxparty.github.io/XP.css/#issues-contributing-etc" target="_blank">MIT</a>، هذه السمة فقط لتمييز البرنامج ولا تعني قدم البرنامج أو إمكانية تشغيله على ويندوز إصدار XP.</p>
 </p>
