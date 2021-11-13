@@ -1,10 +1,9 @@
 # GPA Calculator
+
 <p dir='rtl' align='right'>
 احسب معدلك التراكمي في الجامعة.
 <br><br>
-<img src="images/1.png" width="30%"/>
-<img src="images/2.png" width="30%"/>
-<img src="images/3.png" width="30%"/>
+<img src="image.gif" width="100%"/>
 </br><br>
  يساعدك هذا البرنامج المجاني في حساب معدلك الجامعي التراكمي GPA بالنسبة المئوية، مع معلومات إضافية؛ كعدد الساعات المتبقية للتخرج، أقصى معدل يمكنك الحصول عليه، والفرق بين المعدل التراكمي قبل إضافة المواد وبعدها.<br><br>
 <b>خطوات الاستخدام:</b><br>
@@ -16,5 +15,5 @@
 </p>
 <br>
 <p dir='rtl' align='right'>
-<b>ملحوظة:</b> تم تضمين سمة Windows XP بالاستعانة بمشروع باسم <a href="https://botoxparty.github.io/XP.css" target="_blank">XP.css</a> تحت رخصة <a href="https://botoxparty.github.io/XP.css/#issues-contributing-etc" target="_blank">MIT</a>، هذه السمة فقط لتمييز البرنامج ولا تعني قدم البرنامج أو إمكانية تشغيله على ويندوز إصدار XP.</p>
+يمكنك تحميل نسخة محمولة للينكس وويندوز من <a href="https://github.com/mhmdkrmabd/gpa-calculator/releases" target="_blank">السمتودع</a>.
 </p>
