@@ -17,5 +17,5 @@
 </p>
 <br>
 <p dir='rtl' align='right'>
-يمكنك تحميل نسخة محمولة للينكس وويندوز من <a href="https://github.com/mhmdkrmabd/gpa-calculator/releases" target="_blank">المستودع</a>.
+يمكنك تحميل نسخة محمولة للينكس وويندوز من <a href="https://github.com/mhmdkrmabd/gpa-calculator/releases" target="_blank">الإصدارات</a>.
 </p>
